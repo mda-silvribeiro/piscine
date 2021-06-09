@@ -1,0 +1,5 @@
+Credentials cache: API:D192C15C-8094-475E-9744-24590B63AAEF
+        Principal: mda-silv@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  4 12:52:41 2021  Jan  4 22:52:33 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
